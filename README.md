@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SahilSharma-20
+- 👋 Hi, I’m @SahilSharma
 - 👀 I’m interested in Data Science, Python.
 - 🌱 I’m currently learning Data Structure and Algorithm with C++
 - 📫 You can reach me on LinkedIn ( https://www.linkedin.com/in/sahil-sharma5 )
