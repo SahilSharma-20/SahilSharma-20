@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-<h3 align="center">Operation Intern @ClassPlus || Ex- Data Analyst @Securigeek || Ex- DevOps Intern (Jeerapowder)</h3>
+<h3 align="center">Operation Analyst @ClassPlus || Ex- Data Analyst @Securigeek || Ex- DevOps Intern (Jeerapowder)</h3>
 <img align="right alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
 
