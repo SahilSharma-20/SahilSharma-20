@@ -32,17 +32,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.sap.com/dam/application/shared/icons/sap-fiori/sap-fiori.png" alt="SAP Fiori" width="40" height="40"/>
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.sap.com/dam/application/shared/icons/sap-ui5/sap-ui5.png" alt="SAP UI5" width="40" height="40"/>
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.sap.com/dam/application/shared/icons/abap/abap.png" alt="ABAP" width="40" height="40"/>
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.sap.com/dam/application/shared/icons/sap-btp/sap-btp.png" alt="SAP BTP" width="40" height="40"/>
     </a>
 </p>
 
