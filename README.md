@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center"> Associate Consultant @IN2IT Enterprise Business Service Pvt Ltd. || Ex- Fiori Consultant @Entiresap || Ex- Operation Analyst @ClassPlus || Ex- Data Analyst @Securigeek || Ex- DevOps Intern (Jeerapowder) || SAP FIORI - UI5, Data & Product Analytics || </h3>
-<img align="right alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
 
 - 🌱 I’m currently learning about **SAP Frontend Tech, Data Analytics**
