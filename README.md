@@ -8,7 +8,7 @@ Ex- DevOps Intern (Jeerapowder) <br>
 
 <!-- Profile summary -->
 <p align="center">
-Currently working on SAP Fiori/UI5 application development with a growing expertise in OData backend services. Actively enhancing skills in data analytics and product management.
+Currently working on SAP Fiori/UI5 application development with a growing expertise in OData backend services.
 </p>
 
 - 🔭 I’m focused on **SAP Fiori/UI5, OData Services**
@@ -25,7 +25,7 @@ Currently working on SAP Fiori/UI5 application development with a growing expert
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://sapui5.hana.ondemand.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simpleicons/simpleicons/develop/icons/sap.svg" alt="SAPUI5" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAPUI5" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
