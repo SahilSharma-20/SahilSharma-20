@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">
-Associate Consultant @ IN2IT Enterprise Business Service Pvt Ltd <br>
+Assistant Manager @ Jindal Steel Ltd <br>
 Ex- Fiori Consultant @ Entiresap &nbsp; | &nbsp; Ex- Operation Analyst @ ClassPlus &nbsp; | &nbsp; Ex- Data Analyst @ Securigeek <br>
 Ex- DevOps Intern (Jeerapowder) <br>
 <b>SAP Fiori/UI5 & OData | Data & Product Analytics</b>
